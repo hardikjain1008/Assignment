@@ -55,3 +55,5 @@ const groupObjectsBy = (arr , key) =>{
 const ans = groupObjectsBy(arr,"channel");
 
 console.log(ans);
+
+// why map can't be used to do this 
