@@ -1,8 +1,0 @@
-this is a index page 
-
-modifications in index page
-
-modifications after creating another branch
-
-editing in vscode 
-auto save on 
