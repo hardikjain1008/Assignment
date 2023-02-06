@@ -30,27 +30,5 @@ class SortArray {
     }
   }
 
-class SortArray {
-    constructor(originalArray) {
-      this.originalArray = originalArray;
-    }
-  
-    getSortedArray() {
-      return this._sortArray(this.originalArray);
-    }
-  
-    _sortArray(array) {
-      return array.sort((a, b) => a - b);
-    }
-  }
-  
-  class SortObjectArray extends SortArray {
-    _sortArray(array) {
-      return array.sort((a, b) => {
-        const propA = Object.values(a)[0];
-        const propB = Object.values(b)[0];
-        return propA - propB;
-      });
-    }
-  }
+
 
