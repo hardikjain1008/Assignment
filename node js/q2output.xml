@@ -1,0 +1,33 @@
+<products>
+   <product>
+       <baseId>1</baseId>
+       <isActive>true</isActive>
+       <contentType>
+           <contentTypeValue>pure</contentTypeValue>
+           <contentTypeValue>mix</contentTypeValue>
+       </contentType>
+       <features>
+       </features>
+       <searchTerms>
+       </searchTerms>
+       <childProducts>
+           <childProduct>
+           </childProduct>
+       </childProducts>
+       <baseId>10</baseId>
+       <isActive>true</isActive>
+       <contentType>
+       </contentType>
+       <features>
+       </features>
+       <searchTerms>
+           <searchTermValue>glue</searchTermValue>
+           <searchTermValue>adhesive</searchTermValue>
+           <searchTermValue>stick</searchTermValue>
+       </searchTerms>
+       <childProducts>
+           <childProduct>
+           </childProduct>
+       </childProducts>
+   </product>
+</products>
